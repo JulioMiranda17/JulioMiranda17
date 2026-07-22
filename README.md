@@ -5,69 +5,53 @@
 </p>
 
 <p align="center">
-  Data & Systems Audit • Python • MySQL • TypeScript • React
+  Data & Systems Audit • Data Analysis • Technology-Driven Problem Solving
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliobmiranda/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/juliobmiranda/">LinkedIn</a>
+  ·
   <a href="mailto:juliobmcosta2@gmail.com">Email</a>
 </p>
 
----
-
-## PT-BR
-
-Sou Associate na PwC Brasil, atuando em Digital Assurance & Transparency, com foco em auditoria de sistemas e dados. Tenho consolidado minha carreira na interseção entre auditoria, tecnologia e análise de dados, ampliando minhas habilidades técnicas para desenvolver soluções cada vez mais eficientes e orientadas por dados.
-
-## EN
-
-I am an Associate at PwC Brasil in Digital Assurance & Transparency, focused on data and systems audit. I am building my career at the intersection of audit, technology, and data analysis, while strengthening my technical skills to create more efficient and data-driven solutions.
-
----
-
-## Focus Areas | Areas de Atuação
-
-- Data and Systems Audit
-- Data Analysis
-- Technology-Driven Problem Solving
-- Process Improvement
-- Continuous Technical Development
-
-## Tech Stack
-
-- Python
-- MySQL
-- TypeScript
-- React
-- VS Code
-
-## Currently Learning | Em Aprendizado
-
-- AWS
-- Node.js
-- REST APIs
-
-## Professional Goal | Objetivo Profissional
-
-Consolidar minha carreira em auditoria e dados, expandindo minha atuação técnica com desenvolvimento, automação e soluções orientadas por tecnologia.
-
-Build a solid career in audit and data, expanding my technical scope through development, automation, and technology-driven solutions.
-
----
-
-## GitHub Stats
-
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=JulioMiranda17&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-  />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## Contact | Contato
+## About Me
 
-- LinkedIn: [linkedin.com/in/juliobmiranda](https://www.linkedin.com/in/juliobmiranda/)
-- Email: [juliobmcosta2@gmail.com](mailto:juliobmcosta2@gmail.com)
+Associate at PwC Brasil in Digital Assurance & Transparency, with a focus on data and systems audit. I am building my career at the intersection of audit, technology, and data, strengthening my technical toolkit to contribute to more efficient, reliable, and data-driven environments.
+
+Sou Associate na PwC Brasil, em Digital Assurance & Transparency, com foco em auditoria de sistemas e dados. Estou consolidando minha carreira na interseção entre auditoria, tecnologia e dados, ampliando minhas habilidades técnicas para contribuir com ambientes mais eficientes, confiáveis e orientados por análise.
+
+---
+
+## Professional Profile
+
+- Experience in data and systems audit within a structured corporate environment
+- Strong interest in technology applied to control, analysis, and process improvement
+- Continuous development in programming, web technologies, and cloud fundamentals
+- Career focus on combining audit rigor with technical and analytical capability
+
+---
+
+## Core Competencies
+
+- Data & Systems Audit
+- Data Analysis
+- Process Review and Improvement
+- Technical Problem Solving
+- Technology Enablement for Business Contexts
+
+---
+
+## Tech Stack
+
+```text
+Python • MySQL • TypeScript • React • VS Code
